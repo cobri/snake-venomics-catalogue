@@ -1,6 +1,6 @@
 # Snake venomics catalogue
 
-* A web app to display snake venom proteomics data from different studies.
+* A web app to display snake venom proteomics data.
 * This project is part of the 7th cohort of the [Open Life Science Program.](https://openlifesci.org/ols-7)
 
 ## Project description
