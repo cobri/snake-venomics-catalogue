@@ -34,7 +34,7 @@ if option == 'Dendroaspis angusticeps':
     Source = 'https://www.sciencedirect.com/science/article/pii/S1874391916300264'
     
 elif option == 'Dendroaspis polylepis':
-    df1 = pd.read_csv('Data/Dp/Dp_Dataset_webplotdigi_2_2_06062023_annotated2.csv') 
+    df1 = pd.read_csv('Data/Dp/Dp_Dataset_webplotdigi_2_2_annotated.csv') 
     df2 = pd.read_csv('Data/Dp/Dp_table_edited.csv') 
     Name = 'Dendroaspis polylepis'
     image = Image.open('Data/Dp/Dp_chrom_cut.jpg')
