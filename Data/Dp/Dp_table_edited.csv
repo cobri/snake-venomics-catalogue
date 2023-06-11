@@ -1,0 +1,244 @@
+﻿Peak,Peak,%,Mass (kDa),Mass (Da),Peptide ion (m/z),-,MS/MS-derived sequence,Conf (%),Sc,Protein family; related protein *
+1,1,0.4,–,–,–,1,Non-peptidic,–,–,Unknown
+2,2,2.4,–,268.3,–,1,Non-peptidic (Adenosine),–,–,Non-peptidic (nucleosides)
+3,3,0.1,–,–,–,1,Non-peptidic,–,–,Unknown
+4,4.i,3.7,10,6911,1435.9,1,RXCYNHBSTTR,99,12,3FTx
+4,,,,6949,2022.2,1,VBPGVGXHCCBSDBCNY,99,19,"Short neurotoxin-1, D. polylepis; P01416"
+4,,,,6987,1585,1,VBPGVGXHCCBSDK,99,16,
+4,,,,,1279.8,1,XCYNHBSTTR,99,14,
+4,4.ii,trace,10,6564,1045.7,1,BXPSFYYK,99,10,BPTI/Kunitz inhibitor
+4,,,,,1816,1,BCXPFDYSGCGGNANR,99,15,"Dendrotoxin-delta, D. angusticeps; P00982"
+4,,,,,1799,1,ZCXPFDYSGCGGNANR,99,17,
+5,5a.i,1.1,12,6563,1045.7,1,BXPSFYYK,99,11,BPTI/Kunitz inhibitor
+5,,,,,917.6,1,XPSFYYK,99,10,"Dendrotoxin-delta, D. angusticeps; P00982"
+5,,,,,1816,1,BCXPFDYSGCGGNANR,99,14,
+5,,,,,1798.9,1,ZCXPFDYSGCGGNANR,99,17,
+5,5a.ii,1.1,12,8020,2015.1,1,CCSTDNCNBFBFGBPR,99,11,3FTx
+5,,,,,1190.7,1,VNXGCAATCPK,99,9,"Alpha-elapitoxin Dpp2c, D. polylepis; P01397"
+5,5b.i,4,10,6563,1045.7,1,BXPSFYYK,99,13,BPTI/Kunitz inhibitor
+5,,,,,2015.1,1,ABBCXPFDYSGCGGNANR,99,19,"Dendrotoxin-delta, D. angusticeps; P00982"
+5,,,,,1815.9,1,BCXPFDYSGCGGNANR,99,19,
+5,,,,,1799,1,ZCXPFDYSGCGGNANR,99,20,
+5,5b.ii,4,10,8020,3548,1,TPSD(Qda)SBXCPPGE(Nda)XCYTBTWCDAWCSBR,99,15,3FTx
+5,,,,,,,,,,"Alpha-elapitoxin Dpp2c, D. polylepis; P01397"
+6,6a,3.1,11,6563,1045.7,1,BXPSFYYK,99,12,BPTI/Kunitz inhibitor
+6,,,,,1816,1,BCXPFDYSGCGGNANR,99,14,"Dendrotoxin-delta, D. angusticeps; P00982"
+6,,,,,1798.9,1,ZCXPFDYSGCGGNANR,99,16,
+6,6b.i,5,10,6563,2015.1,1,ABBCXPFDYSGCGGNANR,99,17,BPTI/Kunitz inhibitor
+6,,,,,1045.7,1,BXPSFYYK,99,12,"Dendrotoxin-delta, D. angusticeps; P00982"
+6,,,,,1815.9,1,BCXPFDYSGCGGNANR,99,20,
+6,,,,,1798.9,1,ZCXPFDYSGCGGNANR,99,19,
+6,6b.ii,4.9,10,8080,2196.2,1,TPSD(Qda)SBXCPPGE(Nda)XCYTK,99,14,3FTx
+6,,,,,,,,,,"Alpha-elapitoxin Dpp2c, D. polylepis; P01397"
+6,6b.iii,trace,10,–,1330.7,1,TWCDAFCGD(Rca),99,12,3FTx
+6,,,,,,,,,,Long neurotoxin A. labialis; ABX58167
+7,7.i,5.3,10,6564,1045.7,1,BXPSFYYK,99,11,BPTI/Kunitz inhibitor
+7,,,,,2015.1,1,ABBCXPFDYSGCGGNANR,99,15,"Dendrotoxin-delta, D. angusticeps; P00982"
+7,,,,,1816,1,BCXPFDYSGCGGNANR,99,18,
+7,,,,,1799,1,ZCXPFDYSGCGGNANR,99,17,
+7,7.ii,3.2,10,8010,1369.7,1,TWCDAWCSBR,99,15,3FTx
+7,,,,,2196.3,1,TPSD(Qda)SBXCPPGENXCYTK,99,16,"Alpha-elapitoxin Dpp2c, D. polylepis; P01397"
+7,,,,,2002.1,1,CCSTDNCNBFBFGBPR,99,12,
+7,7.iii,trace,10,–,908.6,1,GBF(Mox)BPGK,96,7,Ribosomal protein L27e
+7,,,,,,,,,,60S ribosomal prot.L27 M. fulvius; U3FW60
+8,8a,6.7,10,7137,1816.9,1,BCEGFTWSGCGGNSNR,99,21,BPTI/Kunitz inhibitor
+8,,,,,1799.9,1,ZCEGFTWSGCGGNSNR,99,19,"Dendrotoxin-1, D. polylepis; P00979"
+8,,,,,1945,1,BBCEGFTWSGCGGNSNR,99,26,
+8,,,,,2073.1,1,BBBCEGFTWSGCGGNSNR,99,23,
+8,,,,,1236.8,1,XCXXHR(Nda)PGR,99,10,
+8,,,,,1143.7,1,XPAFYYNBK,99,15,
+8,8b.i,18.1,10,7137,1816.9,1,BCEGFTWSGCGGNSNR,99,21,BPTI/Kunitz inhibitor
+8,,,,,1799.9,1,ZCEGFTWSGCGGNSNR,99,19,"Dendrotoxin-1, D. polylepis; P00979"
+8,,,,,1945,1,BBCEGFTWSGCGGNSNR,99,26,
+8,,,,,2073.1,1,BBBCEGFTWSGCGGNSNR,99,23,
+8,,,,,1236.8,1,XCXXHR(Nda)PGR,99,10,
+8,,,,,1143.7,1,XPAFYYNBK,99,15,
+8,8b.ii,trace,10,–,2426.5,1,DTXFGXTTBNCPAGBNXCFXR,99,18,3FTx
+8,,,,,,,,,,"Adrenergic toxin rho-EPTX-Da1b,"
+8,,,,,,,,,,D. angusticeps; P86419
+9,9a.i,1.4,10,7179,1143.7,1,XPAFYYNBK,99,14,BPTI/Kunitz inhibitor
+9,,,,,1798.9,1,ZCEGFTWSGCGGNSNR,99,15,"Dendrotoxin-1, D. polylepis; P00979"
+9,9a.ii,trace,10,–,1451.8,1,XCPPGENXCYTK,99,12,3FTx
+9,,,,,1369.7,1,TWCDAWCSBR,99,15,"Alpha-elapitoxin Dpp2c, D. polylepis; P01397"
+9,9a.iii,trace,10,7549,2197.3,1,YSDXTWGCAATCPBPTNVR,91,7,3FTx
+9,,,,,,,,,,"Muscarinic toxin-alpha, D. polylepis; P80494"
+9,9b.i,1.3,10,7549,2197.2,1,YSDXTWGCAATCPBPTNVR,99,25,3FTx
+9,,,,,2329.3,1,SXFGXTTENCPDGBNXCFBK,99,19,"Muscarinic toxin-alpha, D. polylepis; P80494"
+9,,,,,1179.7,1,BWYYXNHR,99,12,
+9,,,,,1051.6,1,WYYXNHR,99,11,
+9,9b.ii,3.7,10,6560,1815.9,1,BCXPFDYSGCGGNANR,99,14,
+9,,,,,1798.9,1,ZCXPFDYSGCGGNANR,99,15,
+9,9b.iii,trace,10,–,1143.7,1,XPAFYYNBK,99,14,BPTI/Kunitz inhibitor
+9,,,,,,,,,,"Dendrotoxin-1, D. polylepis; P00979"
+10,10.i,1.6,10,7456,2197.2,1,YSDXTWGCAATCPBPTNVR,99,14,3FTx
+10,,,,,,,,,,"Muscarinic toxin-4, D. angusticeps; Q9PSN1"
+10,10.ii,1,10,6390,1815.9,1,BCXPFDYSGCGGNANR,99,14,BPTI/Kunitz inhibitor
+10,,,,,,,,,,"Dendrotoxin-delta, D. angusticeps; P00982"
+10,10.iii,trace,10,–,1623.9,1,GCTFTCPEXRPTGK,95.4,9,3FTx
+10,,,,,,,,,,Muscarinic toxin-like B. multicinctus; Q9W727
+11,11a.i,0.6,11,6762,917.6,1,XPSFYYK,99,8,BPTI/Kunitz inhibitor
+11,,,,,,,,,,"Dendrotoxin-delta, D. angusticeps; P00982"
+11,11a.ii,trace,11,–,1143.7,1,XPAFYYNBK,99,14,BPTI/Kunitz inhibitor
+11,,,,,1816.9,1,BCEGFTWSGCGGNSNR,95.1,10,"Dendrotoxin-1, D. polylepis; P00979"
+11,11a.iii,trace,11,–,1369.7,1,TWCDAWCSBR,99,10,3FTx
+11,,,,,,,,,,"Hem-9, H. signata; R4FIK4"
+11,11b.i,2.9,10,6762,2015.1,1,ABBCXPFDYSGCGGNANR,99,16,BPTI/Kunitz inhibitor
+11,,,,,,,,,,"Dendrotoxin-delta, D. angusticeps; P00982"
+11,11b.ii,trace,10,–,1945,1,BBCEGFTWSGCGGNSNR,99,12,BPTI/Kunitz inhibitor
+11,,,,,1798.9,1,ZCEGFTWSGCGGNSNR,99,15,"Dendrotoxin-1, D. polylepis; P00979"
+11,11b.iii,trace,10,–,2197.3,1,YSDXTWGCAATCPBPTNVR,99,14,3FTx
+11,,,,,,,,,,"Muscarinic toxin-4, D. angusticeps; Q9PSN1"
+12,12.i,0.7,10,7048,2450.2,1,GCGCPTA(Mox)WPYBTECCBGDR,99,12,3FTx
+12,,,,,2122,1,GCGCPTA(Mox)WPYBTECCK,99,15,"Calciseptin, D. polylepis; P22947"
+12,,,,,989.6,1,RXCYXHK,99,11,
+12,12.ii,trace,10,–,1143.7,1,XPAFYYNBK,99,14,BPTI/Kunitz inhibitor
+12,,,,,1816.9,1,BCEGFTWSGCGGNSNR,99,14,"Dendrotoxin-1, D. polylepis; P00979"
+12,,,,,1799.9,1,ZCEGFTWSGCGGNSNR,99,15,
+12,12.iii,trace,10,–,1369.7,1,TWCDAWCSBR,99,12,3FTx
+12,,,,,,,,,,"Hem-9, H. signata; R4FIK4"
+13,13a.i,0.5,13,7039,2122,1,GCGCPTA(Mox)WPYBTECCK,99,7,3FTx
+13,,,,,2450.2,1,GCGCPTA(Mox)WPYBTECCBGDR,99,9,"Calciseptin, D. polylepis; P22947"
+13,,,,,1174.6,1,TCVENTCYK,99,9,
+13,,,,,989.7,1,RXCYXHK,99,11,
+13,13a.ii,trace,13,–,1817,1,BCEGFTWSGCGGNSNR,99,10,BPTI/Kunitz inhibitor
+13,,,,,1143.7,1,XPAFYYNBK,99,14,"Dendrotoxin-1, D. polylepis; P00979"
+13,13b.i,1.7,10,7039,2434.2,1,GCGCPTAMWPYBTECCBGDR,99,14,3FTx
+13,,,,,2122,1,GCGCPTA(Mox)WPYBTECCK,99,14,"Calciseptin, D. polylepis; P22947"
+13,,,,,989.6,1,RXCYXHK,99,11,
+13,,,,,1779,1,TCVENTCY(Kca)MFXR,99,14,
+13,13b.ii,trace,10,–,1143.7,1,XPAFYYNBK,99,13,BPTI/Kunitz inhibitor
+13,,,,,1816.9,1,BCEGFTWSGCGGNSNR,99,17,"Dendrotoxin-1, D. polylepis; P00979"
+14,14.i,0.4,10,8608,2724.6,1,VCTPVGTSGEDCHPASHBXPFSGBR,99,11,Prokineticin
+14,,,,,976.6,1,AVXTGACER,99,12,"Intestinal toxin MIT1, D. polylepis; P25687"
+14,,,,,1939,1,VCTPVGTSGEDCHPASHK,99,21,
+14,,,,,1294.7,1,GTCCAVSXWXK,99,18,
+14,,,,,2225.2,1,(Mox)HHTCPCAPNXACVBTSPK,99,25,
+14,14.ii,1.1,10,6558,1429.8,1,FCYHNTGMPFR,99,14,3FTx
+14,,,,,1927,1,XXXBGCSSSCSETENNK,99,15,"Mambalgin-2, D. polylepis; P0DKS3"
+15,15.i,0.1,10,6984,1798,1,BCXPFXFSGCGGNANR,99,14,BPTI/Kunitz inhibitor
+15,,,,,1669.9,1,CXPFXFSGCGGNANR,99,17,"Calcicludin, D. angusticeps; P81658"
+15,,,,,1164.6,1,WBPPWYCK,99,14,
+15,,,,,1010.6,1,FBTXGECR,99,11,
+15,15.ii,0.3,10,6569,1441.8,1,FCYHNXGMPFR,99,14,3FTx
+15,,,,,1927,1,XXXBGCSSSCSETENNK,99,20,"Mambalgin-3, D.angusticeps; C0HJB0"
+15,,,,,1848,1,D(Mox)BFCYHNXG(Mox)PFR,99,8,
+16,16a.i,0.6,10,6983,1164.6,1,WBPPWYCK,99,9,BPTI/Kunitz inhibitor (?)
+16,,,,,1798,1,BCXPFXFSGCGGNANR,99,14,"Calcicludin, D. angusticeps; P81658"
+16,,,,,1669.9,1,CXPFXFSGCGGNANR,99,18,
+16,16a.ii,trace,10,–,1441.7,1,FCYHNXGMPFR,99,14,3FTx
+16,,,,,,,,,,"Mambalgin-3, D.angusticeps; C0HJB0"
+16,16b.i,0.5,10,6983,1181.7,1,BBFSSFYFK,99,15,BPTI/Kunitz inhibitor
+16,,,,,1053.6,1,BFSSFYFK,99,13,"Calcicludin, D. angusticeps; P81658"
+16,,,,,1164.6,1,WBPPWYCK,99,12,
+16,,,,,1798,1,BCXPFXFSGCGGNANR,99,19,
+16,,,,,1010.6,1,FBTXGECR,99,12,
+16,,,,,1669.9,1,CXPFXFSGCGGNANR,99,19,
+16,16b.ii,trace,10,–,1369.7,1,TWCDAWCSBR,99,14,3FTx
+16,,,,,,,,,,"Hem-9, H. signata; R4FIK4"
+17,17.i,2.5,10,7384,970.6,1,WHYVXPR,99,11,3FTx
+17,,,,,,,,,,"Muscarinic toxin-3, D. angusticeps; P81031"
+17,17.ii,trace,10,,1669.9,1,CXPFXFSGCGGNANR,99,16,BPTI/Kunitz inhibitor
+17,,,,,,,,,,"Calcicludin, D. angusticeps; P81658"
+17,17.iii,1.3,10,7385,2296.2,1,GCVATC(Z)XPE(Nda)YDSXHCCK,99,22,3FTx
+17,,,,,,,,,,"Muscarinic toxin-beta, D. polylepis; P80495"
+18,18a.i,0.1,25,–,1293.8,1,XDTACVCVXSR,99,13,Nerve growth factor
+18,,,,,1798,1,H(Wox)NSYCTTTHTFVK,99,12,"NGF-1, N. sputatrix; Q5YF90"
+18,,,,,1782,1,HWNSYCTTTHTFVK,99,21,
+18,,,,,1413.8,1,CRNPNPVPSGCR,99,9,
+18,18a.ii,trace,25,–,962.5,1,BYFFETK,99,10,Nerve growth factor
+18,,,,,975.6,1,ESHPVHNR,99,10,"NGF-beta, N. natrix; B8QCJ9"
+18,18a.iii,trace,25,–,970.6,1,WHYVXPR,99,9,3FTx
+18,,,,,,,,,,"Muscarinic toxin-3, D. angusticeps; P81031"
+18,18b.i,0.1,15,–,1413.8,1,CRNPNPVPSGCR,99,10,Nerve growth factor
+18,,,,,1782,1,HWNSYCTTTHTFVK,99,23,"NGF-1, N. sputatrix; Q5YF90"
+18,,,,,1710,1,FXRXDTACVCVXSR,99,13,
+18,,,,,1097.6,1,NPNPVPSGCR,99,12,
+18,,,,,1293.7,1,XDTACVCVXSR,99,16,
+18,18b.ii,0.1,15,–,975.6,1,ESHPVHNR,99,11,Nerve growth factor
+18,,,,,962.5,1,BYFFETK,99,11,"NGF-beta, N. natrix; B8QCJ9"
+18,18c.i,0.1,10,7339,2281.2,1,GCVATCPXPENYDSXHCCK,99,11,3FTx
+18,,,,,2202.2,1,SXFGXTTEDCPDGBNXCFK,99,14,"Muscarinic toxin-beta, D. polylepis; P80495"
+18,18c.ii,trace,10,–,1669.9,1,CXPFXFSGCGGNANR,99,10,BPTI/Kunitz inhibitor
+18,,,,,1010.6,1,FBTXGECR,99,8,"Calcicludin, D. angusticeps; P81658"
+18,18c.iii,trace,10,–,1815.9,1,BCXPFDYSGCGGNANR,99,9,BPTI/Kunitz inhibitor
+18,,,,,,,,,,"Dendrotoxin-delta, D. angusticeps; P00982"
+18,18c.iv,trace,10,–,970.6,1,WHYVXPR,99,10,3FTx
+18,,,,,,,,,,"Muscarinic toxin-3, D. angusticeps; P81031"
+18,18c.v,trace,10,–,1143.7,1,XPAFYYNBK,99,12,BPTI/Kunitz inhibitor
+18,,,,,,,,,,"Dendrotoxin-1, D. polylepis; P00979"
+19,19.i,1.4,10,7339,2358.3,1,SXFGXTTEDCPDGBNXCFBR,99,11,3FTx
+19,,,,,2202.2,1,SXFGXTTEDCPDGBNXCFK,99,27,"Muscarinic toxin-beta, D. polylepis; P80495"
+19,,,,,2281.1,1,GCVATCPXPENYDSXHCCK,99,32,
+19,19.ii,1.4,10,7401,970.6,1,WHYVXPR,99,10,3FTx
+19,,,,,,,,,,"Muscarinic toxin-3, D. angusticeps; P81031"
+19,19.iii,trace,10,–,2491.4,1,S(Nda)SX(Wox)FXTSE(Nda)CPAGBNXCFK,98.5,11,3FTx
+19,,,,,,,,,,"Muscarinic toxin-1, D. angusticeps; P60236"
+20,20a.i,trace,10,–,1380.8,1,XPPXPXSXVEFR,94.6,9,Phospholipase A2
+20,,,,,,,,,,"PLA2-Pse-8, P. modesta; R4FIQ4"
+20,20a.ii,trace,10,–,1022.6,1,DFTBWXGR,99,11,–
+20,,,,,,,,,,"DNA/RNA-binding prot KIN17-like, C. horridus; T1DN91"
+20,20a.iii,trace,10,–,1332.8,1,XFBPSCVVVBR,man,man,Vascular endothelial growth factor
+20,,,,,,,,,,"VEGF, M. lebetina; P82475"
+20,20b,7.2,10,"6472.0, 6510.0",1310.6,1,CYPFTYSGCR,99,14,BPTI/Kunitz inhibitor
+20,,,,,,,,,,"Dendrotoxin-B, D. polylepis; P00983"
+21,21a.i,0.2,67,–,1388.8,1,YXEFYVVVDNK,99,14,Metalloproteinase
+21,,,,,3025.5,1,AA(Kdl)(Hox)DCDXSEXCTGBSAECPTDSFBR,99,11,"SVMP-Aca-4, A. wellsi; R4G2D3"
+21,21a.ii,–,67,–,1239.8,1,SVAVXBDHSBR,99,9,Metalloproteinase
+21,,,,,,,,,,"SVMP-Hop-14, H. bungaroides; R4FIM1"
+21,21a.iii,–,67,–,1185.7,1,WRETDXXPR,99,8,Metalloproteinase
+21,,,,,,,,,,"SVMP-Hem-2, H. signata; R4G2W9"
+21,21b.i,0.2,60,–,1882.8,1,(Nda)GHPCBNNBGYCYNR,99,18,Metalloproteinase
+21,,,,,1989.1,1,NDNABXXTGXDF(Nal)GTTVGR,99,23,"SVMP-Hop-14, H. bungaroides; R4FIM1"
+21,21b.ii,–,60,–,1853,1,TDXVSPPVCGNYFVEVG,99,15,Metalloproteinase
+21,,,,,,,,,,"pIII-SVMP, O. okinavensis; U3TBS9"
+21,21b.iii,–,60,–,1185.7,1,WRETDXXPR,99,9,Metalloproteinase
+21,,,,,,,,,,"SVMP-Hem-2, H. signata; R4G2W9"
+21,21c,0.1,53,–,1255.9,1,FPXXSANXRPK,99,16,5′-nucleotidase
+21,,,,,1389.9,1,FPXXSANXRPK,99,11,"Ecto-5′-nucleotidase, G. brevicaudus; B6EWW8"
+21,,,,,,,XTXXHTNDVHAR,,,
+21,,,,,1344.6,1,CTG(Qda)DCYGGVAR,99,13,
+21,,,,,1448.8,1,VVSXNVXCTEC(Ram),99,11,
+21,21d.i,0.2,49,–,2421.4,1,,99,22,5′-nucleotidase
+21,,,,,1448.8,1,VVSXNVXCTEC(Ram),99,12,Ecto-5′-nucleotidase-1; M. fulvius; U3FYP9
+21,,,,,2689.6,1,ETPVXSNPGPYXEFRDEVEEXBK,99,19,
+21,,,,,1255.8,1,FPXXSANXRPK,99,15,
+21,,,,,1389.9,1,XTXXHTNDVHAR,99,13,
+21,21d.ii,–,49,–,1344.6,1,CTGQdaDCYGGVAR,99,13,5′-nucleotidase
+21,,,,,,,,,,"Ecto-5′-nucleotidase, G. brevicaudus; B6EWW8"
+22,22a,0.1,107,–,1371.8,1,AATYF(Wox)PGSEVK,99,8,Phosphodiesterase
+22,,,,,1134.6,1,NPFYNPSPAK,99,11,"Phosphodiesterase-1, M. fulvius; U3FAB3"
+22,,,,,2305.3,1,ABRPDFSTXYXEEPDTTGHK,99,17,
+22,22b.i,0.5,62,–,1989.2,1,NDNABXXTGXDF(Nal)GTTVGR,99,23,Metalloproteinase
+22,,,,,,,,,,"SVMP-Hop-14, H. bungaroides; R4FIM1"
+22,22b.ii,–,62,–,3025.5,1,AB(Hdl)DCD(Mox)PERCTGBSAECPTDSFBR,99,16,Metalloproteinase
+22,,,,,,,,,,"SVMP, A. engaddensis; Q9PT48"
+23,23.i,0.4,41,–,1256.8,1,VTX(Dna)XFGBWR,99,14,Metalloproteinase
+23,,,,,941.5,1,GBGCGFCR,96.2,9,"SVMP-1, M. fulvius; U3EPC7"
+23,23.ii,–,41,–,1530.9,1,TBPAYBFSSCSVR,99,16,Metalloproteinase
+23,,,,,,,,,,"SVMP cobrin, N. kaouthia; Q9PVK7"
+23,23.iii,–,41,–,1297.7,1,SAECPTDSFBR,99,10,Metalloproteinase
+23,,,,,,,,,,"SVMP-Hem-2, H. signata; R4G2W9"
+24,24,0.4,47,54892,2032.2,1,BHSDSNAFXHXFPESFR,99,23,Hyaluronidase
+24,,,,,1904.1,1,HSDSNAFXHXFPESFR,99,23,"Hyaluronidase, E. pyramidum; A3QVN6"
+24,,,,,1700,1,AFHGXGVXDWENWR,99,17,
+24,,,,,1243.8,1,NDBXXWXWR,99,15,
+25,25a.i,0.3,73,–,1516.9,1,BYXEFYVVVDNK,99,17,Metalloproteinase
+25,,,,,,,,,,"Carinatease-1, T. carinatus; B5KFV1"
+25,25a.ii,–,73,–,1394.9,1,RPBCXXNBPXR,99,12,Metalloproteinase
+25,,,,,,,,,,"SVMP-Hop-14, H. bungaroides; R4FIM1"
+25,25a.iii,–,73,–,3029.6,1,AABHDCD(Mox)(Pox)ERCTGBSAECPTDSFBR,99,14,Metalloproteinase
+25,,,,,,,,,,"SVMP, A. engaddensis; Q9PT48"
+25,25b,0.1,50,–,1904.1,1,HSDSNAFXHXFPESFR,99,9,Hyaluronidase
+25,,,,,1243.8,1,NDBXXWXWR,99,11,"Hyaluronidase, E. ocellatus; A3QVN2"
+26,26.i,0.5,42,–,1297.7,1,SAECPTDSFBR,99,13,Metalloproteinase
+26,,,,,,,,,,"MTP-9, D. coronoides; F8RKV9"
+26,26.ii,–,42,–,2203.2,1,RTBPAYBFSSCSVBEHBR,99,14,Metalloproteinase
+26,,,,,,,,,,"SVMP-1, M. fulvius; U3EPC7"
+26,26.iii,–,42,–,1323.7,1,DPNYG(Mox)VEPGTK,99,14,Metalloproteinase
+26,,,,,,,,,,"Atragin, N. atra; D3TTC2"
+26,26.iv,–,42,–,1826,1,YXEFYVVVDNV(Mox)YR,99,10,Metalloproteinase
+26,,,,,,,,,,"Mocarhagin, N. mossambica; Q10749"
+27,27,1,111,–,1685,1,TNDXVXPEEVEWXK,99,14,Metalloproteinase
+27,,,,,1239.7,1,NPYGYBXAWK,99,14,Endoplasmic reticulum aminopeptidase 1-like
+27,,,,,1382.8,1,NVHXBBEHYSK,99,13,"Protein, C. horridus; T1E6L9"
+27,,,,,1462.9,1,TBEX(Pox)SXXFSVGR,97.8,10,
