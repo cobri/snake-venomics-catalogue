@@ -28,7 +28,7 @@ option = st.selectbox(
 
 if option == 'Dendroaspis angusticeps':
     df1 = pd.read_csv('Data/Da/Da_Dataset_webplotdigi_5_5_annotated.csv') 
-    df2 = pd.read_csv('Data/Da/Da_table_edited2.csv') 
+    df2 = pd.read_csv('Data/Da/Da_table_edited.csv') 
     Name = 'Dendroaspis angusticeps'
     image = Image.open('Data/Da/Da_chrom_cut.jpg')
     Source = 'https://www.sciencedirect.com/science/article/pii/S1874391916300264'
