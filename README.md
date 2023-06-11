@@ -2,6 +2,7 @@
 
 * A web app to display snake venom proteomics data.
 * This project is part of the 7th cohort of the [Open Life Science Program.](https://openlifesci.org/ols-7)
+* The app can be accessed at: https://cobri-snake-venomics-catalogue-app-0f6ub0.streamlit.app/
 
 ## Project description
 
