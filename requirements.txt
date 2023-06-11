@@ -1,5 +1,5 @@
-pillow=9.4.0
-pandas=1.5.3
-plotly=5.13.1
-streamlit=1.20.0
-streamlit-aggrid=0.3.4.post3
+pillow
+pandas
+plotly
+streamlit
+streamlit-aggrid
